@@ -9,6 +9,6 @@ int main(int argc, char **argv)
     ind++;
     if (ind == 2) break;
   }
-  std::cout << num;
+  std::cout << num << std::endl;
   return 0;
 }
